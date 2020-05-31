@@ -1,0 +1,28 @@
+{
+  "name": "inkdrop-skip-tag-tabindex",
+  "version": "1.0.0",
+  "description": "Inkdrop tweak: skip tag's tab index",
+  "homepage": "https://github.com/azu/inkdrop-skip-tag-tabindex",
+  "bugs": {
+    "url": "https://github.com/azu/inkdrop-skip-tag-tabindex/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/inkdrop-skip-tag-tabindex.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/inkdrop-skip-tag-tabindex.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
