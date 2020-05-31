@@ -16,6 +16,10 @@ Install with [npm](https://www.npmjs.com/):
 2. <kbd>Tab</kbd> key
 3. Input Body
 
+## Related Inkdrop plugins
+
+Search [Topics: inkdrop](https://github.com/topics/inkdrop?q=user%3Aazu) on GitHub.
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/inkdrop-skip-tag-tabindex/releases).
