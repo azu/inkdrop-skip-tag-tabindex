@@ -8,7 +8,7 @@ Inkdrop tweak: skip tag's tab index.
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install inkdrop-skip-tag-tabindex
+    ipm install inkdrop-skip-tag-tabindex
 
 ## Usage
 
